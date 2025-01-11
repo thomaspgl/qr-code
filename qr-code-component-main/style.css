@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(222, 220, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+}
+.background{
+    height: 380px;
+    width: 220px;
+    background-color: white;
+    border-radius: 10px;
+    
+
+
+
+}
